@@ -14,6 +14,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphics Design, Programming
 </li>
 <br>
+<br>
 </ul>
 <h2 align="right"> 🌀 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 🌀 </h2>
 <div>
