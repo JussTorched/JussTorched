@@ -8,6 +8,7 @@
 <div>
 <h2 align="left"> 🎐 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🎐 </h2>
 <img src="https://data.whicdn.com/images/75134482/original.gif" align="right">
+<ul>
 <li>
 <b>Name:</b> Shinigami
 </li>
@@ -15,6 +16,7 @@
 <b>Hobbys:</b> Tech Stuff, Graphics Design, Programming
 </li>
 <br>
+</ul>
 </div>
 <div>
 <h2 align="right"> 🌀 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ 🌀 </h2>
