@@ -5,7 +5,8 @@ I'm Shinigami, I am a teen developer learning as much as I can.
 #### Languages / Frameworks
 * Javascript
     * Node.js
-    * *Learning React.js*
+    * React.js
+    * *Learning Vue.js*
 * Java
 * Python
 * C, CPP
