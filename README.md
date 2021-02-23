@@ -14,6 +14,8 @@ I'm Shinigami, I am a teen developer learning as much as I can.
 #### Technologies
 * MongoDB
 * Express
+* *Learning PostgreSQL*
+* *Learning JWT Authentication*
 
 <br>
 
