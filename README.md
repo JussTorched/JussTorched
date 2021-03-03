@@ -8,6 +8,7 @@ I'm Shinigami, I am a teen developer learning as much as I can.
     * React.js
     * *Learning Vue.js*
 * Java
+    * Swing
 * Python
 * C, CPP
 * HTML, CSS
