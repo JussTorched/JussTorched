@@ -6,7 +6,7 @@ I'm Shinigami, I am a teen developer learning as much as I can.
 * Javascript
     * Node.js
     * React.js
-    * *Learning Vue.js*
+    * ~~*Learning Vue.js*~~ (on hold)
 * Java
     * Swing
 * Python
@@ -15,8 +15,8 @@ I'm Shinigami, I am a teen developer learning as much as I can.
 #### Technologies
 * MongoDB
 * Express
-* *Learning PostgreSQL*
-* *Learning JWT Authentication*
+* ~~*Learning PostgreSQL*~~ (on hold)
+* ~~*Learning JWT Authentication*~~ (on hold)
 
 <br>
 
