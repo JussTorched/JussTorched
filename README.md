@@ -10,7 +10,7 @@ I'm Shinigami, I am a teen developer learning as much as I can.
 * Java
     * Swing
 * Python
-* C, CPP
+* CPP
 * HTML, CSS
 #### Technologies
 * MongoDB
